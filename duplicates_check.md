@@ -5,10 +5,15 @@ In a few instances, point-by-point scores are entered multiple times for a match
 Based on this review process, the correctness of each score was classified using the following classification scheme:
 
 1 = Correct with no aces/double faults noted
+
 2 = Correct with aces/double faults noted
+
 3 = Incorrect
+
 4 = Uncertain
+
 5 = Uncertain but suspected incorrect
+
 6 = No record of match in external sources 
 
 
